@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73359917c3b6ccd6c79ad1c037fae98d",
+    "revision": "73288fb9c0a82e127f3dc80597043663",
     "url": "/manikya-resume/index.html"
   },
   {
-    "revision": "dc82b71ec859303eadf0",
+    "revision": "7b5e0c6078d2e442eb4c",
     "url": "/manikya-resume/static/css/main.5facb584.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manikya-resume/static/js/2.b210ffd2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc82b71ec859303eadf0",
-    "url": "/manikya-resume/static/js/main.b38c2a59.chunk.js"
+    "revision": "7b5e0c6078d2e442eb4c",
+    "url": "/manikya-resume/static/js/main.de16da52.chunk.js"
   },
   {
     "revision": "c2794fc63c054664751d",
