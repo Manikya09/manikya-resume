@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/manikya-resume/precache-manifest.bc834e8c93d72508483c988fb29fa3ae.js"
+  "/manikya-resume/precache-manifest.ebe1a14f0a5ec4ae6f798aeb4d8f71f2.js"
 );
 
 self.addEventListener('message', (event) => {
