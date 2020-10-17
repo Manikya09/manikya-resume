@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/manikya-resume/static/css/main.5facb584.chunk.css",
-    "main.js": "/manikya-resume/static/js/main.de16da52.chunk.js",
-    "main.js.map": "/manikya-resume/static/js/main.de16da52.chunk.js.map",
+    "main.js": "/manikya-resume/static/js/main.3184a2c4.chunk.js",
+    "main.js.map": "/manikya-resume/static/js/main.3184a2c4.chunk.js.map",
     "runtime-main.js": "/manikya-resume/static/js/runtime-main.8d0feea8.js",
     "runtime-main.js.map": "/manikya-resume/static/js/runtime-main.8d0feea8.js.map",
-    "static/js/2.b210ffd2.chunk.js": "/manikya-resume/static/js/2.b210ffd2.chunk.js",
-    "static/js/2.b210ffd2.chunk.js.map": "/manikya-resume/static/js/2.b210ffd2.chunk.js.map",
+    "static/js/2.4b733a11.chunk.js": "/manikya-resume/static/js/2.4b733a11.chunk.js",
+    "static/js/2.4b733a11.chunk.js.map": "/manikya-resume/static/js/2.4b733a11.chunk.js.map",
     "index.html": "/manikya-resume/index.html",
-    "precache-manifest.f81559c8c3047ea0e28619b6ea0b9310.js": "/manikya-resume/precache-manifest.f81559c8c3047ea0e28619b6ea0b9310.js",
+    "precache-manifest.e70d2c386d5c3e516bc451948a9e9b69.js": "/manikya-resume/precache-manifest.e70d2c386d5c3e516bc451948a9e9b69.js",
     "service-worker.js": "/manikya-resume/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/manikya-resume/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.b210ffd2.chunk.js.LICENSE.txt": "/manikya-resume/static/js/2.b210ffd2.chunk.js.LICENSE.txt",
+    "static/js/2.4b733a11.chunk.js.LICENSE.txt": "/manikya-resume/static/js/2.4b733a11.chunk.js.LICENSE.txt",
     "static/media/profilepic.jpg": "/manikya-resume/static/media/profilepic.33ad55ef.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d0feea8.js",
-    "static/js/2.b210ffd2.chunk.js",
+    "static/js/2.4b733a11.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.de16da52.chunk.js"
+    "static/js/main.3184a2c4.chunk.js"
   ]
 }

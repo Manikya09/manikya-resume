@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73288fb9c0a82e127f3dc80597043663",
+    "revision": "b35f9c49e50b93264d68a0991f66d54a",
     "url": "/manikya-resume/index.html"
   },
   {
-    "revision": "7b5e0c6078d2e442eb4c",
+    "revision": "326014ca6eb0e91329fc",
     "url": "/manikya-resume/static/css/main.5facb584.chunk.css"
   },
   {
-    "revision": "ceb16eb5a73f0fe735ff",
-    "url": "/manikya-resume/static/js/2.b210ffd2.chunk.js"
+    "revision": "ea6e703611ea66025d9e",
+    "url": "/manikya-resume/static/js/2.4b733a11.chunk.js"
   },
   {
     "revision": "63a84f5c0b19c96be47a74b765284fbf",
-    "url": "/manikya-resume/static/js/2.b210ffd2.chunk.js.LICENSE.txt"
+    "url": "/manikya-resume/static/js/2.4b733a11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b5e0c6078d2e442eb4c",
-    "url": "/manikya-resume/static/js/main.de16da52.chunk.js"
+    "revision": "326014ca6eb0e91329fc",
+    "url": "/manikya-resume/static/js/main.3184a2c4.chunk.js"
   },
   {
     "revision": "c2794fc63c054664751d",
